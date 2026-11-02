@@ -1,0 +1,13 @@
+{
+  "name": "jiyyad-tools-bypass-v2",
+  "version": "1.0.0",
+  "description": "BYPASS V2 - JIYYAD TOOLS (Secure Proxy)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5"
+  }
+}
